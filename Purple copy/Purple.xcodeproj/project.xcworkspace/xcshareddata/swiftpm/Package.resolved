@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "axiscontribution",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisContribution.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c305ee0fd1d446b2d52bac7ebbe55a228983c755"
+      }
+    },
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView.git",
+      "state" : {
+        "revision" : "9115a992c91fa19cbb4f2241084240d38654a1fc",
+        "version" : "1.5.5"
+      }
+    },
+    {
+      "identity" : "gzmatchedtransformeffect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gongzhang/GZMatchedTransformEffect.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3fb17f95490cedced4da564755face1661232d7c"
+      }
+    }
+  ],
+  "version" : 2
+}
