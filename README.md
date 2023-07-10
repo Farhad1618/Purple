@@ -15,3 +15,20 @@ To run this app, you'll need to have Xcode installed. Clone the repository, open
 
 ```bash
 git clone https://github.com/username/Purple.git
+
+Usage
+
+Add Income: To add an income, navigate to the 'Add Income' view, enter the income name and amount, and tap 'Add Income'.
+Add Expense: To add an expense, navigate to the 'Add Expense' view, enter the expense name, amount, and category, and tap 'Add Expense'.
+View Incomes and Expenses: All your incomes and expenses are displayed in a list on the home screen. You can see the details of each income and expense by tapping on them.
+Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+License
+
+MIT
+
+Please replace the `username` in the `git clone` command with your actual GitHub username. Also, you might want to replace the `https://choosealicense.com/licenses/mit/` URL with the actual URL of your project's license.
+
+This is a very basic README and you might want to add more sections like 'Built With', 'App Screenshots', 'Author', etc. depending on your needs.
