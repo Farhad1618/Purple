@@ -9,13 +9,6 @@ Purple is a minimalistic income and expense tracker designed to make personal fi
 - **Minimalistic Design:** Purple has a clean and minimalistic design that makes it easy to use.
 - **Dark Mode Support:** Purple supports both light and dark mode.
 
-## Installation
-
-To run this app, you'll need to have Xcode installed. Clone the repository, open the project in Xcode, and run it on a simulator or a physical device.
-
-```bash
-git clone https://github.com/username/Purple.git
-
 Usage
 
 Add Income: To add an income, navigate to the 'Add Income' view, enter the income name and amount, and tap 'Add Income'.
@@ -32,3 +25,12 @@ MIT
 Please replace the `username` in the `git clone` command with your actual GitHub username. Also, you might want to replace the `https://choosealicense.com/licenses/mit/` URL with the actual URL of your project's license.
 
 This is a very basic README and you might want to add more sections like 'Built With', 'App Screenshots', 'Author', etc. depending on your needs.
+
+## Installation
+
+To run this app, you'll need to have Xcode installed. Clone the repository, open the project in Xcode, and run it on a simulator or a physical device.
+
+
+```bash
+git clone https://github.com/username/Purple.git
+
